@@ -1,6 +1,11 @@
+
 {
-  "name":"devops-demo",
-  "version":"1.0.0",
-  "script":{"test":"jest"},
-  "devdependencies":{"jest":"^29.0.0"}
+  "name": "devops-demo",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
 }
