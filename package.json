@@ -1,0 +1,5 @@
+{
+  "name"="devops-demo",
+  "script"={"test":"jest"},
+  "devdependencies"={"jest":"^29.0.0"}
+}
